@@ -22,7 +22,7 @@ The framework was built to produce audit-ready evidence artifacts that map direc
 | File | Description |
 |---|---|
 | [`gravity_vrm_framework.xlsx`](./gravity_vrm_framework.xlsx) | Six-tab Excel workbook - full risk register, scoring model, heat map, DDQ, and remediation tracker. Also available as a [Google Sheet](https://docs.google.com/spreadsheets/d/11nrl8iISAfhHMlNBZoTznCkTS-X39bYB/edit?usp=sharing&ouid=110260400406162142135&rtpof=true&sd=true). |
-| [`gravity_vrm_exec_summary.md`](./gravity_vrm_exec_summary.md) | Executive summary suitable for compliance leadership or audit committee review. Also available as a [PDF via Google Drive](https://drive.google.com/file/d/1GNgCUfZa27zueHOqO6w79p5wsAligYCC/view?usp=sharing). |
+| [`gravity_vrm_exec_summary.pdf`](./gravity_vrm_exec_summary.pdf) | Executive summary suitable for compliance leadership or audit committee review. Also available as a [PDF via Google Drive](https://drive.google.com/file/d/1GNgCUfZa27zueHOqO6w79p5wsAligYCC/view?usp=sharing). |
 
 ---
 
